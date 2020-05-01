@@ -1,4 +1,4 @@
-# ML_recommender
+# Prototype Recommendation System for CyVerse
 
 ## Mini-project repository for [ML sprint](https://github.com/ua-dsf/ML_sprint)
 
